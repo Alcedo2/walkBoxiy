@@ -1,6 +1,7 @@
 # walkBoxiy
 
-http://houkagokikakubu.blog.fc2.com/blog-entry-120.htmlにて作ったソース
+http://houkagokikakubu.blog.fc2.com/blog-entry-120.html
+にて作ったソース
 一年前のものをそのままアップしてるので至らぬ点多々ございますが少しでも参考になればと思います。
 itweenを使用してます。
 
